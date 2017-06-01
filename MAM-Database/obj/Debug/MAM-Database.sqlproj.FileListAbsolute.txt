@@ -1,0 +1,9 @@
+C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-Database\bin\Debug\MAM-Database.dacpac
+C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-Database\bin\Debug\MAM_Database.dll
+C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-Database\bin\Debug\MAM_Database.pdb
+C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-Database\obj\Debug\Model.xml
+C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-Database\obj\Debug\refactor.xml
+C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-Database\obj\Debug\postdeploy.sql
+C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-Database\obj\Debug\predeploy.sql
+C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-Database\obj\Debug\MAM_Database.dll
+C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-Database\obj\Debug\MAM_Database.pdb

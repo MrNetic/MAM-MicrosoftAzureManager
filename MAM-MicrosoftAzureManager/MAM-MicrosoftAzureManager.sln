@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAM-MicrosoftAzureManager", "MAM-MicrosoftAzureManager.csproj", "{1447808D-23A0-4536-A94F-BB063F075E6B}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MAM-Database", "..\MAM-Database\MAM-Database.sqlproj", "{5CD0F155-3C2E-4BCF-A594-CBEB71625855}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{1447808D-23A0-4536-A94F-BB063F075E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1447808D-23A0-4536-A94F-BB063F075E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1447808D-23A0-4536-A94F-BB063F075E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD0F155-3C2E-4BCF-A594-CBEB71625855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD0F155-3C2E-4BCF-A594-CBEB71625855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD0F155-3C2E-4BCF-A594-CBEB71625855}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5CD0F155-3C2E-4BCF-A594-CBEB71625855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD0F155-3C2E-4BCF-A594-CBEB71625855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD0F155-3C2E-4BCF-A594-CBEB71625855}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+﻿Authentication:
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-api-authentication
+
+Nice stuff:
+https://azure.microsoft.com/en-us/blog/simpler-azure-management-libraries-for-net/
