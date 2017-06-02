@@ -33,7 +33,14 @@ namespace MAM_MicrosoftAzureManager
     
         private void button1_Click(object sender, EventArgs e)
         {
+            ChooseSubscription FormChooseSubscription = new ChooseSubscription();
+            FormChooseSubscription.Show();
 
+        }
+
+        private void LoadForm_Load(object sender, EventArgs e)
+        {
+            
         }
     }
 }

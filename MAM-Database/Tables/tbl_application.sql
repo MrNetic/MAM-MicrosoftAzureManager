@@ -1,4 +1,4 @@
-﻿CREATE TABLE [config].[tbl_subscriptions]
+﻿CREATE TABLE [config].[tbl_application]
 (
 	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
     [Description] VARCHAR(500) NOT NULL, 

@@ -76,14 +76,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChooseSubscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseSubscription.Designer.cs">
+      <DependentUpon>ChooseSubscription.cs</DependentUpon>
+    </Compile>
     <Compile Include="LoadForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="LoadForm.Designer.cs">
       <DependentUpon>LoadForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="MAMDatabase.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MAMDatabase.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ChooseSubscription.resx">
+      <DependentUpon>ChooseSubscription.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoadForm.resx">
       <DependentUpon>LoadForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -97,6 +111,17 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="MAMConfig.json" />
+    <None Include="MAMDatabase.xsc">
+      <DependentUpon>MAMDatabase.xsd</DependentUpon>
+    </None>
+    <None Include="MAMDatabase.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MAMDatabase.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="MAMDatabase.xss">
+      <DependentUpon>MAMDatabase.xsd</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

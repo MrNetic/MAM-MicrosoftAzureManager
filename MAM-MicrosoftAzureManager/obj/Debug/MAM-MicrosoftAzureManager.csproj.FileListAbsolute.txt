@@ -1,7 +1,6 @@
 C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\bin\Debug\MAM-MicrosoftAzureManager.exe.config
 C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\bin\Debug\MAM-MicrosoftAzureManager.exe
 C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\bin\Debug\MAM-MicrosoftAzureManager.pdb
-C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\obj\Debug\MAM-MicrosoftAzureManager.csprojResolveAssemblyReference.cache
 C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\obj\Debug\MAM_MicrosoftAzureManager.LoadForm.resources
 C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\obj\Debug\MAM_MicrosoftAzureManager.Properties.Resources.resources
 C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\obj\Debug\MAM-MicrosoftAzureManager.csproj.GenerateResource.Cache
@@ -24,3 +23,5 @@ C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureMan
 C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\bin\Debug\Microsoft.Rest.ClientRuntime.xml
 C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
 C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\obj\Debug\MAM_MicrosoftAzureManager.ChooseSubscription.resources
+C:\Users\pcondeca.GBECORP\OneDrive\Stuff\Azure\Development\MAM-MicrosoftAzureManager\MAM-MicrosoftAzureManager\obj\Debug\MAM-MicrosoftAzureManager.csprojResolveAssemblyReference.cache

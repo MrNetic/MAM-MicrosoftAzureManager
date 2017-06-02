@@ -126,10 +126,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 299);
+            this.ClientSize = new System.Drawing.Size(805, 307);
             this.Controls.Add(this.tabControl1);
             this.Name = "LoadForm";
             this.Text = "MAM-MicrosoftAzureManager";
+            this.Load += new System.EventHandler(this.LoadForm_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
